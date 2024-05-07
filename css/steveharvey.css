@@ -1,0 +1,45 @@
+.head1 {
+    color:rgb(28, 26, 26);
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.img1 {
+    padding: inherit;
+    margin:auto;
+    width: 600px;
+    display: block;
+}
+
+.head2, .head3, .head4 {
+    
+    color: rgb(28, 26, 26);
+    font-size: 35px;
+    text-align: center;
+    font-style: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+    
+
+}
+
+.body1 {
+    background-color: rgb(163, 186, 255);
+}
+
+.text1, .text2, .list1, .list2  {
+    font-size: 16px;
+    text-align: center;
+    font-style: italic;
+}
+
+.homediv1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.home1 {
+    display: inline-block;
+}

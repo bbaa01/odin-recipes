@@ -1,0 +1,49 @@
+.head1 {
+    color:rgb(28, 26, 26);
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.img1 {
+    padding: inherit;
+    margin:auto;
+    width: 200px;
+    display: block;
+}
+
+.head2, .head3, .head4 {
+    
+    color: rgb(28, 26, 26);
+    font-size: 35px;
+    text-align: center;
+    font-style: italic;
+    text-decoration:wavy;
+    text-decoration: underline;
+    
+
+    
+    
+    
+
+}
+
+.body1 {
+    background-color: rgb(226, 218, 200);
+}
+
+.text1, .list1, .list2  {
+    font-size: 16px;
+    text-align: center;
+    font-style: italic;
+}
+
+.homediv1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.home1 {
+    display: inline-block;
+}
